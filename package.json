@@ -1,0 +1,18 @@
+{
+  "name": "swirl",
+  "version": "1.0.0",
+  "description": "Swirls around a rectangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "keywords": [
+    "swirl",
+    "javascript"
+  ],
+  "author": "jkeam",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node-karma": "^1.6.1"
+  }
+}
